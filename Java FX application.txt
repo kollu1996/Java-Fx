@@ -1,0 +1,14 @@
+About:
+
+Real Estate application which allows client to add 3 kinds of properties including its image and details such as Rent if apartment, purchase price if condominium or house. Number of bedrooms/bathrooms etc. I have given buttons to each of the property
+
+When clicked on each property a page is displayed where he can browse from local computer and add the image, enter details and submit finally.
+
+4 display buttons are designed and programmed, 3 buttons each for house, condominium and appartment. 1 button for display all properties.
+
+Used OOPS principles to solve problems such as code duplication. Inheritance is the solution that I used. Made a generic class property and included all common things and inherited those properties in house, condo and apartment.
+
+Used polymorphism when adding property to array list (This contains all kinds of properties).
+
+
+
